@@ -5,9 +5,12 @@ ehthumbs.db
 *.apk
 *.exe
 *.zip
+*.bak
 Library
 obj
 Temp
+Assets/Unity-Logs-Viewer
+Assets/Reporter
 .gitignore
 # Folder config file
 Desktop.ini
